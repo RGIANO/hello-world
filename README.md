@@ -11,7 +11,7 @@ CarnivalVR is a virtual reality game with three main components:
 3. Coin Toss
 ___
 <b>How to Install:</b>
-App can be installed in IOS version +7.0 using the following XCode build file.
+App can be installed in IOS version +7.0 using the following XCode build file LaunchScreen-iPhone.xib tha can be found in the zip file Build.zip
 ___
 <b> Contact Information:</b>
 e-mail: [rafael.gianone@gmail.com]
