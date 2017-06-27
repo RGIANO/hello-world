@@ -18,6 +18,7 @@ e-mail: [rafael.gianone@gmail.com]
 ___
 **Software Information:**
 Unity 5.6.1p2
+
 Google VR SDK Version 1.0
 ___
 <b>License Information:</b>
