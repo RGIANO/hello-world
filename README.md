@@ -1,3 +1,4 @@
+
 # VRnanodegree_Course 3 Project Maze
 VR Nanodegree Course 3 - Project Maze
 ==============================================
@@ -13,8 +14,7 @@ Maze is a virtual reality game with five main components:
 5. The game is reset by touching on the "YOU WIN" canvas located inside the building. 
 ___
 <b>How to Install:</b>
-App can be installed in IOS version 10.3 using the following XCode build file LaunchScreen-iPhone.xib tha can be found in the zip file Build.zip
-___
+App can be installed in IOS version 10.3 using the following XCode build file LaunchScreen-iPhone.xib tha can be found in the zip file Build.zip___
 <b> Contact Information:</b>
 e-mail: [rafael.gianone@gmail.com]
 ___
